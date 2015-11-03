@@ -31,8 +31,10 @@ body {
 h1, h2 {
 
     font-family: 'PT Serif', serif;
-}
+color: rgb(193, 163, 158);text-transform: uppercase;letter-spacing: 16px;}
 
 p, blockquote {
     font-family: 'Volkhov', serif;
+    font-size: 1.2em;
+    line-height: 1.5em;
 }
