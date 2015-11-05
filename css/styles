@@ -28,10 +28,15 @@ body {
 
 /* Typography */
 
+
+
+
 h1, h2 {
 
-    font-family: 'PT Serif', serif;
-color: rgb(193, 163, 158);text-transform: uppercase;letter-spacing: 16px;}
+font-family: 'PT Serif', serif;
+color: rgb(193, 163, 158); text-transform: uppercase;letter-spacing: 16px;
+
+}
 
 p, blockquote {
     font-family: 'Volkhov', serif;

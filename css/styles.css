@@ -23,7 +23,7 @@ http://subtlepatterns.com/dark-embroidery/
 /* Global or Sitewide */
 
 body {
-    backgound: url("../img/dark_embroidery.png");
+background-image: url(../img/norwegian_rose.png)
 }
 
 /* Typography */
@@ -31,8 +31,26 @@ body {
 h1, h2 {
 
     font-family: 'PT Serif', serif;
+    color: rgb(13, 4, 10);
+        text-align: end;
+    
+    
+
+        
 }
 
 p, blockquote {
+    font-family: 'Volkhov', serif;
+}
+
+
+/* Nav */
+
+li {
+display:inline-block
+}
+
+a:link {
+   color: rgb(13, 4, 10);
     font-family: 'Volkhov', serif;
 }
